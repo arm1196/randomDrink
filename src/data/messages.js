@@ -5,7 +5,7 @@ import img3 from '../img/m2.jpg';
 
 const messages = [
   {
-    title: 'สูตร 18',
+    title: 'สูตร 21',
     description: 'ผลไม้ + โยเกิร์ต (ธรรมชาติ)',
     imageUrl: img1,
   },
