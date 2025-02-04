@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/randomDrink/static/css/main.f5d764c1.css",
+    "main.js": "/randomDrink/static/js/main.fbf417ce.js",
+    "static/media/Begood.jpg": "/randomDrink/static/media/Begood.6ce8e85019c22cc2b239.jpg",
+    "static/media/coconut-juice.jpg": "/randomDrink/static/media/coconut-juice.746c94eef868193f3bd4.jpg",
+    "static/media/BG.jpg": "/randomDrink/static/media/BG.e25da03fb7f874ea8d65.jpg",
+    "static/media/ice1.jpeg": "/randomDrink/static/media/ice1.7520ac8f6b895cdc1ef2.jpeg",
+    "static/media/m2.jpg": "/randomDrink/static/media/m2.eae320fd3c12c9f49552.jpg",
+    "index.html": "/randomDrink/index.html",
+    "main.f5d764c1.css.map": "/randomDrink/static/css/main.f5d764c1.css.map",
+    "main.fbf417ce.js.map": "/randomDrink/static/js/main.fbf417ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d764c1.css",
+    "static/js/main.fbf417ce.js"
+  ]
+}
