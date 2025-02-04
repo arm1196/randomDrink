@@ -5,17 +5,17 @@ import img3 from '../img/m2.jpg';
 
 const messages = [
   {
-    title: 'สูตร 21',
+    title: 'สูตร 01',
     description: 'ผลไม้ + โยเกิร์ต (ธรรมชาติ)',
     imageUrl: img1,
   },
   {
-    title: 'สูตร 08',
+    title: 'สูตร 02',
     description: 'มะพร้าว + นมเปรี้ยว',
     imageUrl: img2,
   },
   {
-    title: 'สูตร 34',
+    title: 'สูตร 03',
     description: 'มะม่วง + นมเปรี้ยว',
     imageUrl: img3,
   },
