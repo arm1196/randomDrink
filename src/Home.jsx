@@ -5,19 +5,22 @@ import logoBatagen from './img/logoBetagen.jpg';
 import Bebackground from './img/BG.jpg';
 
 const categoryMap = {
-  1: 'อาหาร',
+  1: 'ผัก',
   2: 'ขนม',
-  3: 'เครื่องดื่ม',
-  4: 'ผัก',
-  5: 'หิน'
+  3: 'ผลไม้',
+  4: 'เมนูแปลก'
 };
 
 const colorMap = {
-  1: 'แดง',
-  2: 'น้ำเงิน',
-  3: 'เขียว',
-  4: 'เหลือง',
-  5: 'ดำ'
+  1: 'ม่วง',
+  2: 'แดง',
+  3: 'ฟ้า',
+  4: 'ชมพู',
+  5: 'เขียว',
+  6: 'เหลือง',
+  7: 'ขาว',
+  8: 'น้ำตาล',
+  9: 'ส้ม'
 };
 
 const Home = () => {
@@ -73,6 +76,7 @@ const Home = () => {
             <option key={col} value={col}>{colorMap[col] || `สี ${col}`}</option>
           ))}
         </select>
+        <hr/>
 
         <button className="home-button" onClick={handleRandomize} disabled={isSpinning}>
           {isSpinning ? 'Spinning...' : 'Random'}
